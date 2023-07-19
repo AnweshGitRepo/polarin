@@ -1,0 +1,258 @@
+2023-07-06 14:41:50 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-06 14:41:53 INFO  TestBase:82 - Launching Url
+2023-07-06 14:47:39 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-06 14:47:45 INFO  TestBase:82 - Launching Url
+2023-07-07 15:28:30 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 15:28:33 INFO  TestBase:82 - Launching Url
+2023-07-07 15:51:45 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 15:51:47 INFO  TestBase:82 - Launching Url
+2023-07-07 16:16:51 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 16:16:54 INFO  TestBase:82 - Launching Url
+2023-07-07 16:25:43 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 16:25:45 INFO  TestBase:82 - Launching Url
+2023-07-07 17:46:36 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 17:46:39 INFO  TestBase:82 - Launching Url
+2023-07-07 17:48:01 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 17:48:03 INFO  TestBase:82 - Launching Url
+2023-07-07 17:51:19 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 17:51:22 INFO  TestBase:82 - Launching Url
+2023-07-07 18:05:04 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 18:05:06 INFO  TestBase:82 - Launching Url
+2023-07-07 18:08:23 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 18:08:26 INFO  TestBase:82 - Launching Url
+2023-07-07 18:11:36 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 18:11:39 INFO  TestBase:82 - Launching Url
+2023-07-07 18:33:12 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 18:33:15 INFO  TestBase:82 - Launching Url
+2023-07-07 18:34:56 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 18:34:59 INFO  TestBase:82 - Launching Url
+2023-07-07 18:35:48 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 18:35:51 INFO  TestBase:82 - Launching Url
+2023-07-07 18:40:17 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 18:40:20 INFO  TestBase:82 - Launching Url
+2023-07-07 18:41:46 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 18:41:49 INFO  TestBase:82 - Launching Url
+2023-07-07 18:42:29 INFO  TestBase:51 - Launching Chrome Browser
+2023-07-07 18:42:32 INFO  TestBase:82 - Launching Url
+2023-07-09 13:56:32 INFO  TestBase:60 - Launching Chrome Browser
+2023-07-09 13:56:34 INFO  TestBase:91 - Launching Url
+2023-07-09 13:59:28 INFO  TestBase:60 - Launching Chrome Browser
+2023-07-09 13:59:30 INFO  TestBase:91 - Launching Url
+2023-07-09 15:42:13 INFO  TestBase:61 - Launching Chrome Browser
+2023-07-09 15:42:16 INFO  TestBase:92 - Launching Url
+2023-07-09 15:43:29 INFO  TestBase:61 - Launching Chrome Browser
+2023-07-09 15:43:32 INFO  TestBase:92 - Launching Url
+2023-07-09 15:46:52 INFO  TestBase:61 - Launching Chrome Browser
+2023-07-09 15:46:57 INFO  TestBase:92 - Launching Url
+2023-07-09 15:51:20 INFO  TestBase:62 - Launching Chrome Browser
+2023-07-09 15:51:23 INFO  TestBase:93 - Launching Url
+2023-07-09 15:53:28 INFO  TestBase:69 - Launching Microsoft Edge Browser
+2023-07-09 15:53:31 INFO  TestBase:93 - Launching Url
+2023-07-09 16:04:29 INFO  TestBase:63 - Launching Chrome Browser
+2023-07-09 16:04:33 INFO  TestBase:94 - Launching Url
+2023-07-09 16:06:10 INFO  TestBase:63 - Launching Chrome Browser
+2023-07-09 16:06:13 INFO  TestBase:94 - Launching Url
+2023-07-09 16:07:03 INFO  TestBase:63 - Launching Chrome Browser
+2023-07-09 16:07:06 INFO  TestBase:94 - Launching Url
+2023-07-09 16:11:52 INFO  TestBase:63 - Launching Chrome Browser
+2023-07-09 16:11:55 INFO  TestBase:94 - Launching Url
+2023-07-09 16:17:04 INFO  TestBase:71 - Launching Microsoft Edge Browser
+2023-07-09 16:17:07 INFO  TestBase:95 - Launching Url
+2023-07-09 16:26:55 INFO  TestBase:71 - Launching Microsoft Edge Browser
+2023-07-09 16:26:58 INFO  TestBase:95 - Launching Url
+2023-07-09 16:29:53 INFO  TestBase:71 - Launching Microsoft Edge Browser
+2023-07-09 16:29:56 INFO  TestBase:95 - Launching Url
+2023-07-09 16:44:01 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-09 16:44:04 INFO  TestBase:95 - Launching Url
+2023-07-09 16:46:21 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-09 16:46:24 INFO  TestBase:95 - Launching Url
+2023-07-09 16:55:58 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-09 16:56:01 INFO  TestBase:95 - Launching Url
+2023-07-09 18:57:36 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-09 18:57:39 INFO  TestBase:95 - Launching Url
+2023-07-09 19:00:21 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-09 19:00:31 INFO  TestBase:95 - Launching Url
+2023-07-10 15:44:11 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-10 15:44:13 INFO  TestBase:95 - Launching Url
+2023-07-10 15:46:55 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-10 15:46:58 INFO  TestBase:95 - Launching Url
+2023-07-10 18:01:47 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-10 18:01:50 INFO  TestBase:95 - Launching Url
+2023-07-10 18:04:42 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-10 18:04:45 INFO  TestBase:95 - Launching Url
+2023-07-10 18:35:51 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-10 18:35:54 INFO  TestBase:95 - Launching Url
+2023-07-10 18:37:50 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-10 18:37:53 INFO  TestBase:95 - Launching Url
+2023-07-10 20:25:06 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-10 20:25:09 INFO  TestBase:95 - Launching Url
+2023-07-10 20:28:56 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-10 20:28:59 INFO  TestBase:95 - Launching Url
+2023-07-10 20:31:05 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-10 20:31:07 INFO  TestBase:95 - Launching Url
+2023-07-10 20:37:27 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-10 20:37:29 INFO  TestBase:95 - Launching Url
+2023-07-11 10:39:17 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-11 10:39:20 INFO  TestBase:95 - Launching Url
+2023-07-11 10:45:34 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-11 10:45:36 INFO  TestBase:95 - Launching Url
+2023-07-11 10:51:05 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-11 10:51:07 INFO  TestBase:95 - Launching Url
+2023-07-11 11:58:12 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-11 11:58:15 INFO  TestBase:95 - Launching Url
+2023-07-11 12:01:10 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-11 12:01:13 INFO  TestBase:95 - Launching Url
+2023-07-11 12:02:46 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-11 12:02:48 INFO  TestBase:95 - Launching Url
+2023-07-11 12:36:48 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 12:36:50 INFO  TestBase:98 - Launching Url
+2023-07-11 13:05:05 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 13:05:11 INFO  TestBase:98 - Launching Url
+2023-07-11 13:48:31 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 13:48:34 INFO  TestBase:98 - Launching Url
+2023-07-11 13:52:48 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 13:52:50 INFO  TestBase:98 - Launching Url
+2023-07-11 14:02:35 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 14:02:37 INFO  TestBase:98 - Launching Url
+2023-07-11 14:03:11 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 14:03:13 INFO  TestBase:98 - Launching Url
+2023-07-11 14:29:52 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 14:29:54 INFO  TestBase:98 - Launching Url
+2023-07-11 14:35:27 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 14:35:30 INFO  TestBase:98 - Launching Url
+2023-07-11 14:41:34 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 14:41:37 INFO  TestBase:98 - Launching Url
+2023-07-11 14:44:03 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 14:44:06 INFO  TestBase:98 - Launching Url
+2023-07-11 16:08:07 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 16:08:09 INFO  TestBase:98 - Launching Url
+2023-07-11 16:14:28 INFO  TestBase:75 - Launching HeadLess ChromeBrowser
+2023-07-11 16:14:38 INFO  TestBase:98 - Launching Url
+2023-07-11 17:15:04 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 17:15:07 INFO  TestBase:98 - Launching Url
+2023-07-11 17:17:54 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 17:17:57 INFO  TestBase:98 - Launching Url
+2023-07-11 20:58:25 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 20:58:28 INFO  TestBase:97 - Launching Url
+2023-07-11 21:05:35 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 21:05:38 INFO  TestBase:97 - Launching Url
+2023-07-11 21:37:01 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 21:37:03 INFO  TestBase:97 - Launching Url
+2023-07-11 21:38:27 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 21:38:30 INFO  TestBase:97 - Launching Url
+2023-07-11 21:49:07 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 21:49:09 INFO  TestBase:97 - Launching Url
+2023-07-11 22:07:35 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 22:07:38 INFO  TestBase:97 - Launching Url
+2023-07-11 22:11:32 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 22:11:35 INFO  TestBase:97 - Launching Url
+2023-07-11 22:15:48 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 22:15:51 INFO  TestBase:97 - Launching Url
+2023-07-11 22:22:36 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 22:22:39 INFO  TestBase:97 - Launching Url
+2023-07-11 22:25:11 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 22:25:14 INFO  TestBase:97 - Launching Url
+2023-07-11 22:26:55 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 22:26:58 INFO  TestBase:97 - Launching Url
+2023-07-11 22:28:17 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 22:28:20 INFO  TestBase:97 - Launching Url
+2023-07-11 22:50:12 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 22:50:15 INFO  TestBase:97 - Launching Url
+2023-07-11 22:51:57 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 22:52:00 INFO  TestBase:97 - Launching Url
+2023-07-11 22:53:41 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 22:53:44 INFO  TestBase:97 - Launching Url
+2023-07-11 22:58:02 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-11 22:58:05 INFO  TestBase:97 - Launching Url
+2023-07-12 14:13:40 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:13:42 INFO  TestBase:97 - Launching Url
+2023-07-12 14:19:35 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:19:37 INFO  TestBase:97 - Launching Url
+2023-07-12 14:22:41 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:22:43 INFO  TestBase:97 - Launching Url
+2023-07-12 14:24:00 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:24:02 INFO  TestBase:97 - Launching Url
+2023-07-12 14:26:22 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:26:24 INFO  TestBase:97 - Launching Url
+2023-07-12 14:27:22 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:27:25 INFO  TestBase:97 - Launching Url
+2023-07-12 14:28:44 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:28:46 INFO  TestBase:97 - Launching Url
+2023-07-12 14:30:12 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:30:14 INFO  TestBase:97 - Launching Url
+2023-07-12 14:31:09 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:31:11 INFO  TestBase:97 - Launching Url
+2023-07-12 14:39:28 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:39:30 INFO  TestBase:97 - Launching Url
+2023-07-12 14:40:31 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:40:34 INFO  TestBase:97 - Launching Url
+2023-07-12 14:43:40 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:43:42 INFO  TestBase:97 - Launching Url
+2023-07-12 14:44:24 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:44:27 INFO  TestBase:97 - Launching Url
+2023-07-12 14:45:51 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:45:53 INFO  TestBase:97 - Launching Url
+2023-07-12 14:48:12 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:48:15 INFO  TestBase:97 - Launching Url
+2023-07-12 14:48:49 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:48:52 INFO  TestBase:97 - Launching Url
+2023-07-12 14:51:59 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:52:02 INFO  TestBase:97 - Launching Url
+2023-07-12 14:53:40 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:53:42 INFO  TestBase:97 - Launching Url
+2023-07-12 14:55:12 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 14:55:14 INFO  TestBase:97 - Launching Url
+2023-07-12 15:09:21 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 15:09:23 INFO  TestBase:97 - Launching Url
+2023-07-12 15:11:58 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 15:12:00 INFO  TestBase:97 - Launching Url
+2023-07-12 17:11:51 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 17:11:53 INFO  TestBase:97 - Launching Url
+2023-07-12 17:27:48 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 17:27:50 INFO  TestBase:97 - Launching Url
+2023-07-12 17:31:50 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 17:31:52 INFO  TestBase:97 - Launching Url
+2023-07-12 17:38:46 INFO  TestBase:66 - Launching Chrome Browser
+2023-07-12 17:38:48 INFO  TestBase:97 - Launching Url
+2023-07-12 21:05:14 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-12 21:05:17 INFO  TestBase:95 - Launching Url
+2023-07-12 21:06:23 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-12 21:06:26 INFO  TestBase:95 - Launching Url
+2023-07-12 21:13:39 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-12 21:13:42 INFO  TestBase:95 - Launching Url
+2023-07-12 21:58:30 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-12 21:58:32 INFO  TestBase:95 - Launching Url
+2023-07-12 22:41:05 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-12 22:41:08 INFO  TestBase:95 - Launching Url
+2023-07-12 22:41:48 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-12 22:41:52 INFO  TestBase:95 - Launching Url
+2023-07-12 22:44:17 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-12 22:44:21 INFO  TestBase:95 - Launching Url
+2023-07-12 22:52:31 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-12 22:52:34 INFO  TestBase:95 - Launching Url
+2023-07-12 22:54:21 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-12 22:54:25 INFO  TestBase:95 - Launching Url
+2023-07-13 14:20:59 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-13 14:21:00 INFO  TestBase:95 - Launching Url
+2023-07-13 14:27:28 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-13 14:27:31 INFO  TestBase:95 - Launching Url
+2023-07-13 14:32:01 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-13 14:32:03 INFO  TestBase:95 - Launching Url
+2023-07-13 14:36:59 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-13 14:37:01 INFO  TestBase:95 - Launching Url
+2023-07-13 14:39:56 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-13 14:39:58 INFO  TestBase:95 - Launching Url
+2023-07-18 20:21:17 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-18 20:21:20 INFO  TestBase:95 - Launching Url
+2023-07-18 20:33:23 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-18 20:33:25 INFO  TestBase:95 - Launching Url
+2023-07-18 20:34:55 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-18 20:34:57 INFO  TestBase:95 - Launching Url
+2023-07-18 20:38:06 INFO  TestBase:73 - Launching HeadLess ChromeBrowser
+2023-07-18 20:38:17 INFO  TestBase:95 - Launching Url
+2023-07-18 22:58:29 INFO  TestBase:64 - Launching Chrome Browser
+2023-07-18 22:58:34 INFO  TestBase:95 - Launching Url
+2023-07-19 12:00:05 INFO  TestBase:65 - Launching Chrome Browser
+2023-07-19 12:00:08 INFO  TestBase:96 - Launching Url
+2023-07-19 13:19:03 INFO  TestBase:65 - Launching Chrome Browser
+2023-07-19 13:19:05 INFO  TestBase:96 - Launching Url

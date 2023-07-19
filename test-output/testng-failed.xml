@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="lightstorm.polarin.testCases.CreateVirtualConnection_DC_To_DC_TestCase">
+        <methods>
+          <include name="browserClose"/>
+          <include name="verify_that_Existing_Subscriptions_And_New_Subscriptions_details_along_with_Total_cost_should_be_displayed_in_the_BillingProfile_page"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- lightstorm.polarin.testCases.CreateVirtualConnection_DC_To_DC_TestCase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

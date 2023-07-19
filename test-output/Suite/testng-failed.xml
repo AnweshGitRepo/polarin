@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Test(failed)">
+    <classes>
+      <class name="lightstorm.polarin.testCases.PolarinLoginTest">
+        <methods>
+          <include name="verify_Invalid_Login_Details"/>
+          <include name="verify_Blank_login_Details"/>
+          <include name="close_browser"/>
+          <include name="verify_valid_Login_details"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- lightstorm.polarin.testCases.PolarinLoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

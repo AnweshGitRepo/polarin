@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-19T11:59:58 IST" name="Polarin" finished-at="2023-07-19T12:00:14 IST" duration-ms="15933">
+    <groups>
+    </groups>
+    <test started-at="2023-07-19T11:59:58 IST" name="polarin_test" finished-at="2023-07-19T12:00:14 IST" duration-ms="15933">
+      <class name="lightstorm.polarin.testCases.PolarinLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:lightstorm.polarin.testCases.PolarinLoginTest@6a2f6f80]" started-at="2023-07-19T11:59:58 IST" name="setUp" finished-at="2023-07-19T12:00:09 IST" duration-ms="10088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_Blank_login_Details()[pri:1, instance:lightstorm.polarin.testCases.PolarinLoginTest@6a2f6f80]" started-at="2023-07-19T12:00:09 IST" name="verify_Blank_login_Details" finished-at="2023-07-19T12:00:09 IST" duration-ms="931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Blank_login_Details -->
+        <test-method signature="verify_Invalid_Login_Details()[pri:2, instance:lightstorm.polarin.testCases.PolarinLoginTest@6a2f6f80]" started-at="2023-07-19T12:00:10 IST" name="verify_Invalid_Login_Details" finished-at="2023-07-19T12:00:13 IST" duration-ms="3789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Invalid_Login_Details -->
+        <test-method signature="verify_valid_Login_details()[pri:3, instance:lightstorm.polarin.testCases.PolarinLoginTest@6a2f6f80]" started-at="2023-07-19T12:00:13 IST" name="verify_valid_Login_details" finished-at="2023-07-19T12:00:14 IST" duration-ms="857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_valid_Login_details -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:lightstorm.polarin.testCases.PolarinLoginTest@6a2f6f80]" started-at="2023-07-19T12:00:14 IST" name="close_browser" finished-at="2023-07-19T12:00:14 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- lightstorm.polarin.testCases.PolarinLoginTest -->
+    </test> <!-- polarin_test -->
+  </suite> <!-- Polarin -->
+</testng-results>
